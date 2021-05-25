@@ -1,0 +1,27 @@
+.g-sidenav-pinned .sidenav {
+  max-width: 89px !important;
+}
+
+@media (min-width: 768px) {
+  .main-content .container-fluid,
+  .main-content .container-sm,
+  .main-content .container-md,
+  .main-content .container-lg,
+  .main-content .container-xl {
+    padding-right: 30px !important;
+    padding-left: 107px !important;
+  }
+}
+.main-content .container-fluid,
+.main-content .container-sm,
+.main-content .container-md,
+.main-content .container-lg,
+.main-content .container-xl {
+  padding-right: 30px !important;
+  padding-left: 107px !important;
+}
+
+.btn.btn-round {
+  border-radius: 30px;
+}
+
